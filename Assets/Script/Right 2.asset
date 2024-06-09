@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a86cac0dff3b3d488b917d65d2f8d33, type: 3}
+  m_Name: Right 2
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: -7888364124139205571, guid: e829df8dd3a152d459a2853b4550adc7, type: 3}
+  category: Right
