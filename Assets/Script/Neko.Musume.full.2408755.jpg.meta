@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Neko.Musume.full.2408755_0: 5846964923185465165
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

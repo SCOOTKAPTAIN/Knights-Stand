@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FB_IMG_1654918716089_0: 4609614489721029399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
